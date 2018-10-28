@@ -17,5 +17,5 @@ For the purposes of devlopment during the 36 hour time limit deployment of this 
 
 > 1. In order to use this you will need to setup your own [server](https://github.com/maxdevos49/Fall2018Hackathon). <br />
 > 2. Open the project in Android Studio and follow [this guide](https://github.com/maxdevos49/Fall2018Hackathon) to deploy the app to your Android device. <br />
-> 3. Open the settings page and enter your server information: <i>http://<b>\<Server IP\></b>:<b>\<Server Port\><b></i> and save. <br />
+> 3. Open the settings page and enter your server information: <i>http://<b>\<Server IP\></b>:<b>\<Server Port\></b></i> and save. <br />
 > 4. You should now have a connection to upload and view photos on the server

@@ -1,6 +1,6 @@
 # HackISU Fall 2018 - Best in UI Design - PhotoCenter
 #### Locally hosted Photo managment service with web interface and Android app
-This app was built during a 36 hour long hackathon. It is fully functinoal and allows photo upload, storage, tagging, searching, and allows you to turn any device with a web browser into a picture frame. More information can be found about the project on the [DevPost](https://devpost.com/software/photocenter-he1ajs).
+This app was built during a 36 hour long hackathon. It is fully functional and allows photo upload, storage, tagging, searching, and allows you to turn any device with a web browser into a picture frame. More information can be found about the project on the [DevPost](https://devpost.com/software/photocenter-he1ajs).
 #### This Repository contains the Android App
 For the server and web interface go to [this repository](https://github.com/JosephNaberhaus/Fall2018Hackathon)
 ## About

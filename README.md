@@ -2,7 +2,7 @@
 #### Locally hosted Photo managment service with web interface and Android app
 This app was built during a 36 hour long hackathon. It is fully functional and allows photo upload, storage, tagging, searching, and allows you to turn any device with a web browser into a picture frame. More information can be found about the project on the [DevPost](https://devpost.com/software/photocenter-he1ajs).
 #### This Repository contains the Android App
-For the server and web interface go to [this repository](https://github.com/JosephNaberhaus/Fall2018Hackathon)
+For the server and web interface go to [this repository](https://github.com/JosephNaberhaus/hack-isu-fall-2018-server)
 ## About
 
 This app allows uploading any photo stored on your device to the server. It doesn't support tagging. Photos uploaded from the app will be placed into the `General` album. The `View` page will displays all of the albums stored remotely on the server. Clicking one will display all of the photos in that album.
